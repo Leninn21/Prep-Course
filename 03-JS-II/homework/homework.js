@@ -142,6 +142,7 @@ function operadoresLogicos(num1, num2, num3) {
   else {
     return false;
   }
+  
 }
 
 function esPrimo(numero) {
